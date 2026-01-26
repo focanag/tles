@@ -821,7 +821,7 @@
 # ID: 79865  25000ZYR
 # Include c456421.tle
 
-# Range: 2025-10-01 2026-01-30
+# Range: 2025-10-01 2026-03-03
 # ID: 79864  25000ZYQ
 # Include ztf107n.tle
 
@@ -873,7 +873,7 @@
 # ID: 79852  25000ZYC
 # Include a11wfsg.tle
 
-# Range: 2025-12-01 2026-06-30
+# Range: 2026-01-01 2026-07-01
 # ID: 79851  69046Z
 # Include c45gf81_26.tle
 
