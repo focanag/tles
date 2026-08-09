@@ -2,6 +2,10 @@
 
 # Max error 0.2   (Following TLEs should be good to at least 0.2 degrees)
 
+# Range: 2026-04-03 2026-04-10.9
+# ID: 68538  26069A
+# Include 26069a.tle
+
 # Range: 2023-01-02 2023-03-21
 # ID: 54696  22168A
 # Include 22168a.tle
@@ -28,6 +32,10 @@
 # ID: 49498  21110B
 # Include 21110b.tle
 
+# Range: 2025-03-01 2025-09-01
+# ID: 49498  21110B
+# Include 21110b25.tle
+
 # Range: 2021-12-26 2023-01-01
 # ID: 50463  21130A
 # Include 21130a.tle
@@ -37,10 +45,9 @@
 # Range: 2024-01-01 2025-01-01
 # ID: 50463  21130A
 # Include 21130a24.tle
-
-# Range: 2024-06-01 2024-11-15
-# ID: 53766  22110B
-# Include 22110b.tle
+# Range: 2025-01-01 2026-01-01
+# ID: 50463  21130A
+# Include 21130a25.tle
 
 # Range: 2021-12-25 2022-04-01
 # ID: 50464  21130B
@@ -59,6 +66,9 @@
 # Range: 2022-10-13 2022-11-22
 # ID: 49328  21093A
 # Include lucy22.tle
+# Range: 2024-11-15 2025-02-01
+# ID: 49328  21093A
+# Include lucy24.tle
 
 # Range: 2021-11-25 2022-02-01
 # ID: 49497  21110A
@@ -67,6 +77,10 @@
 # Range: 2023-09-10 2023-10-01
 # ID: 41757  16055A
 # Include osiris.tle
+
+# Range: 2025-09-01 2025-09-24
+# ID: 41757  16055A
+# Include 16055a.tle
 
 # Range: 2022-10-20 2023-03-24
 # ID: 52916  22070C
@@ -84,6 +98,10 @@
 # ID: 56176  23053A
 # Include juice.tle
 
+# Range: 2024-05-01 2024-10-01
+# ID: 56176  23053A
+# Include 23053a.tle
+
 # Range: 20230414.6 20230801.6
 # ID: 56177  23053B
 # Include juice_b.tle
@@ -99,6 +117,9 @@
 # Range: 2024-01-01 2025-01-01
 # ID: 57209  23092A
 # Include 23092a24.tle
+# Range: 2025-01-01 2026-01-01
+# ID: 57209  23092A
+# Include 23092a25.tle
 
 # Range: 2023-10-07 2023-11-10
 # ID: 58015  23154C
@@ -107,19 +128,114 @@
 # Range: 20240108.5 20240122.5
 # ID: 58751  24006A
 # Include peregr.tle
+
 # Range: 20240108.5 20240410.5
 # ID: 58752  24006B
 # Include 24006b.tle
 
-# Max error 3.0   (following TLEs for the Euclid booster involved guesswork)
+# Range: 2024-10-15 2024-11-24
+# ID: 61508  24182B
+# Include 24182b.tle
+
+# Range: 2024-10-15 2024-10-25
+# ID: 61507  24182A
+# Include 24182a.tle
+
+# Range: 1999-08-17 1999-08-30
+# ID: 25008  97061A
+# Include 97061a.tle
+
+# Range: 2018-02-07 2018-03-30
+# ID: 43205  18017A
+# Include 18017a.tle
 
 # Range: 2023-07-02 2023-11-01
 # ID: 57210  23092B
 # Include euclid_b.tle
 
-# Range: 2024-06-20 2024-08-15
+# Range: 2024-06-20 2025-01-01
 # ID: 59627  24083A
 # Include 24083a.tle
+
+# Range: 2025-01-01 2026-01-01
+# ID: 59627  24083A
+# Include 24083a25.tle
+
+# Range: 2026-01-01 2026-07-01
+# ID: 59627  24083A
+# Include 24083a26.tle
+
+# Range: 2024-10-07.7 2024-11-26.7
+# ID: 61449  24180A
+# Include hera.tle
+
+# Range: 2024-10-08 2024-12-17
+# ID: 99999  24180Z
+# Include 24180z.tle
+
+# Range: 2025-03-04 2025-04-20
+# ID: 63100  25038B
+# Include 25038b.tle
+
+# Range: 2025-02-28 2025-08-20
+# ID: 63101  25038C
+# Include 25038c.tle
+
+# Range: 2025-02-27.1 2025-03-31.1
+# ID: 63102  25038D
+# Include 25038d.tle
+
+# Range: 2025-02-27 2026-01-01
+# ID: 63103  25038E
+# Include 25038e.tle
+
+# Range: 2025-01-16 2026-01-01
+# ID: 62719  25010D
+# Include 25010d.tle
+
+# Range: 2026-01-01 2026-08-05
+# ID: 62719  25010D
+# Include 25010d26.tle
+
+# Range: 2025-11-14 2026-09-04
+# ID: 66453  25260C
+# Include 25260c.tle
+
+# Max error 3.0   (following TLEs are somewhat approximate)
+
+# Range: 2025-01-01 2025-03-30
+# ID: 62029  24214B
+# Include 24214b.tle
+
+# Range: 2024-10-01 2025-08-03
+# ID: 54260  22157B
+# Include 22157b.tle
+
+# Max error 0.2     (reverting to default tolerance)
+
+# Range: 2024-11-05 2024-12-01
+# ID: 55509  23017B
+# Include 23017b.tle
+
+# Range: 2025-01-17 2025-05-07
+# ID: 62717  25010B
+# Include 25010b.tle
+
+# Range: 2025-01-15 2025-03-15
+# ID: 62718  25010C
+# Include 25010c.tle
+
+# Range: 2025-01-16 2025-02-14
+# ID: 62716  25010A
+# Include 25010a.tle
+
+# Range: 2025-01-22 2025-06-01
+# ID: 99999  01027AA
+# Include wmap.tle
+
+# Range: 2025-01-22 2025-06-01
+# ID: 26859  01027A
+# Include wmap2.tle
 
 #   Following max error carefully selected so that IM-1 = 2024-030A and its
 #   Falcon 9 booster could be distinguished cleanly.  May cause trouble if
@@ -140,9 +256,69 @@
 
 # Max error 0.1    (resetting to a saner search threshhold)
 
+# Range: 2024-10-04 2025-01-01
+# ID: 61448  24179A
+# Include 24179a.tle
+
+# Range: 2025-09-03 2025-12-25
+# ID: 61448  24179A
+# Include 24179a25.tle
+
 # Range: 20240221.5 20250115.5
 # ID: 58964  24030B
 # Include 24030b.tle
+
+   The following lines ensure that we are 'warned' of certain known
+   upcoming events.  This was prompted by the August 2024 JUICE flyby;
+   we spotted the object on 2024 July 06 and briefly thought it was a
+   largish possible impactor.  (I found that slightly embarrassing.)  In
+   the future,  I want to be nudged into adding TLEs for such known
+   returning heliocentric objects.  (And possibly of other events we
+   need to be alert for;  cislunar/heliocentric launches,  for example.)
+   (2024 Aug 19 : Juan-Luis Cano told me that ESA had a similar thought,
+   and passed along a list including an additional four events.  I've
+   updated accordingly.)
+
+#      2025-Jun-01 | OSIRIS-APEX flyby in September; generate TLEs
+#      2026-Mar-01 | 2021-110B = DART upper stage returns May; generate TLEs
+# Warn 2026-Jul-01 | JUICE flyby in September; generate TLEs
+# Warn 2026-Nov-10 | 2024-179A = Vulcan Centaur test returning
+# Warn 2026-Dec-01 | Europa Clipper flyby coming up; generate TLEs
+# Warn 2027-Feb-01 | OSIRIS-APEX flyby in March; generate TLEs
+# Warn 2027-Mar-01 | Planck returns in early June
+# Warn 2027-Aug-01 | Herschel returns in late October
+# Warn 2027-Sep-01 | Hayabusa 2 flyby in December; generate TLEs
+# Warn 2027-Dec-10 | 2024-179A = Vulcan Centaur test returning
+# Warn 2028-Mar-01 | Hayabusa 2 flyby in June; generate TLEs
+# Warn 2028-Oct-01 | JUICE flyby in January; generate TLEs
+# Warn 2028-Dec-23 | 2024-179A = Vulcan Centaur test returning
+# Warn 2029-Feb-01 | OSIRIS-APEX flyby in April; generate TLEs
+# Warn 2032-Jun-01 | J002E3 = Apollo 12 SIV-B returns Jul
+# Warn 2035-Jan-01 | Solar Orbiter Centaur returns Feb
+# Warn 2033-Nov-01 | 2010-050B = Chang'e-2 booster returns Dec
+# Warn 2034-Sep-01 | 2009-026B = Herschel/Planck booster returns Dec
+# Warn 2035-Aug-01 | RK252A5 = 2010 KQ returns
+# Warn 2036-Mar-01 | 2020 SO = Surveyor 2 stage returns
+# Warn 2037-May-01 | 2018 AV2 returns July
+# Warn 2038-Apr-01 | 2019-040B = Spektr-RG booster returns June
+
+# Jon Giorgini tells me 'every 14 years' for Gaia,  at that distance.
+# I have a surprisingly good orbit from optical astrometry that confirms
+# this.  It's distant,  but reaches mag 24 in September 2039.
+
+# Warn 2039-Jan-01 | 2013-074A = Gaia : distant return (over 10 million km)
+# Warn 2040-Jun-01 | 2023-053B = JUICE upper stage returns August
+# Warn 2041-Sep-01 | 2018-103B = Chang'e-4 booster returns Nov
+# Warn 2042-Dec-01 | 2025-038E = IM-1/Lunar Trailblazer stage returns Mar
+# Warn 2044-Oct-01 | 2024-030B returns in April
+# Warn 2046-Jun-01 | 2020-049B = Tianwen-1 upper stage returns late Aug
+# Warn 2046-Nov-01 | 2018-017A = Falcon Heavy & Tesla returns January
+# Warn 2047-Jan-01 | 2021-130B = JWST upper stage returns June
+# Warn 2047-Jul-01 | 2024 BY15 returns in coming year?
+# Warn 2049-Apr-01 | 2020-047B = EMM-1 upper stage returns late July
+# Warn 2051-Jul-01 | 2024-180Z = Hera upper stage returns November
+# Warn 2051-Aug-01 | 2021-093B = Lucy Centaur returns October
+# Warn 2052-Aug-01 | 2025-260C = ESCAPADE upper stage return Oct/Nov
 
 # Max error 3.0   (Following TLEs are ETBOs of usually mediocre quality)
 
@@ -316,9 +492,12 @@
 # ID: 79955  23999ZZE
 # Include a10yhvb.tle
 
-# Range: 2023-11-09 2024-10-13
+# Range: 2023-11-09 2025-01-01
 # ID: 57770  23098C
 # Include 23098c.tle
+# Range: 2025-01-01 2026-01-01
+# ID: 57770  23098C
+# Include 23098c25.tle
 
 # Range: 2023-09-01 2024-04-13
 # ID: 79953  23999ZZC
@@ -384,15 +563,15 @@
 # ID: 79928  24999ZZR
 # Include qq2c.tle
 
-# Range: 2024-01-01 2024-09-11
+# Range: 2024-01-01 2024-11-23
 # ID: 79926  24999ZZP
 # Include a11649f.tle
 
-# Range: 2024-03-01 2024-08-01
+# Range: 2024-03-01 2025-01-01
 # ID: 79925  24999ZZO
 # Include a116cgx.tle
 
-# Range: 2024-03-01 2024-08-01
+# Range: 2024-03-01 2024-11-07
 # ID: 79924  24999ZZN
 # Include a116xpy.tle
 
@@ -404,7 +583,319 @@
 # ID: 79922  24999ZZL
 # Include a1175iz.tle
 
-# note : next artsat will be 79921, 23999ZYU (or 24999ZZK)
+# Range: 2024-05-01 2024-10-11
+# ID: 79921  24999ZZK
+# Include a118fdh.tle
+
+# Range: 2024-04-01 2025-01-11
+# ID: 79920  24999ZZJ
+# Include a117ffg.tle
+
+# Range: 2024-05-01 2024-11-17
+# ID: 79919  24999ZZH
+# Include a118n8s.tle
+
+# Range: 2024-06-01 2025-01-13
+# ID: 79918  24999ZZG
+# Include a118n8v.tle
+
+# Range: 2024-06-01 2024-12-13
+# ID: 79917  24999ZZF
+# Include a119h5o.tle
+
+# Range: 2024-08-01 2024-12-07
+# ID: 79916  24999ZZE
+# No longer used;  it's either SSA01 or SSA02,  can't tell which */
+# # Include a11acbv.tle
+
+# Range: 2024-07-01 2024-11-27
+# ID: 79915  24999ZZD
+# Include zts0274.tle
+
+# Range: 2024-07-01 2024-11-17
+# ID: 79914  24999ZZC
+# Include zts0275.tle
+
+# Max error 0.2   (SSA01 and SSA02 are close together;  we need to use
+#  a smaller search distance to avoid double identifications)
+
+# Range: 2024-08-01 2026-01-01
+# ID: 60058  24048D
+# Include 24048d.tle
+
+# Range: 2024-08-01 2026-01-01
+# ID: 59228  24048A
+# Include 24048a.tle
+
+# Range: 2026-01-01 2026-07-01
+# ID: 59228  24048A
+# Include 24048a26.tle
+
+# Max error 1.0       (not observed for a while and may have drifted)
+
+# Range: 2026-01-01 2026-07-01
+# ID: 60058  24048D
+# Include 24048d26.tle
+
+# Range: 2026-01-01 2026-07-01
+# ID: 59228  24048A
+# Include 24048a26.tle
+
+# Range: 2025-01-01 2026-01-01
+# ID: 60326  24048E
+# Include 24048e.tle
+
+# Max error 3.0   (...and switching back to assuming mediocre accuracy)
+
+# Range: 2024-07-01 2025-01-01
+# ID: 79911  24999ZZB
+# Include a11bp7g.tle
+
+# Range: 2024-07-01 2024-12-17
+# ID: 79910  24999ZZA
+# Include a11aviq.tle
+
+# Range: 2024-08-01 2025-01-21
+# ID: 79909  24999ZYZ
+# Include a11cbvv.tle
+
+# Range: 2024-09-01 2025-04-13
+# ID: 79908  24999ZYY
+# Include zts0318.tle
+
+# Range: 2024-09-01 2024-12-02
+# ID: 79907  24999ZYX
+# Include a11chg4.tle
+
+# Range: 2024-09-01 2025-02-18
+# ID: 79906  24999ZYW
+# Include c43lr41.tle
+
+# Range: 2024-09-01 2025-04-01
+# ID: 79905  24999ZYV
+# Include a11cpaw.tle
+
+# Range: 2024-09-01 2025-03-06
+# ID: 79904  67040Z
+# Include 67040z.tle
+
+# Range: 2024-10-01 2025-07-17
+# ID: 79903  24999ZYU
+# Include a11denn.tle
+
+# Range: 2024-10-01 2025-03-11
+# ID: 79902  24999ZYT
+# Include a11dxi4.tle
+
+# Range: 2024-10-01 2025-07-31
+# ID: 79901  24999ZYS
+# Include a11drcc.tle
+
+# Range: 2024-10-01 2025-03-03
+# ID: 79900  24999ZYR
+# Include a11fbwc.tle
+
+# Range: 2024-10-01 2025-04-11
+# ID: 79899  24999ZYQ
+# Include a11host.tle
+
+# Range: 2024-08-01 2025-07-22
+# ID: 79898  24999ZYP
+# Include a11evs8.tle
+
+# Range: 2024-12-01 2025-03-14
+# ID: 79897  25000ZZZ
+# Include a11iash.tle
+
+# Range: 2025-01-01 2025-06-17
+# ID: 79895  25000ZZX
+# Include a11itwu.tle
+
+# Range: 2025-01-01 2025-03-01
+# ID: 79894  25000ZZW
+# Include c44gzr1.tle
+
+# Range: 2025-01-01 2025-03-04
+# ID: 79893  25000ZZV
+# Include zts0365.tle
+
+# Range: 2024-12-17 2025-07-03
+# ID: 79892  25000ZZU
+# Include a11kala.tle
+
+# Range: 2025-02-15 2025-06-27
+# ID: 79891  25000ZZT
+# Include savas01.tle
+
+# Range: 2025-03-01 2025-06-11
+# ID: 79890  25000ZZS
+# Include zts0390.tle
+
+# Range: 2025-03-01 2025-06-17
+# ID: 79889  25000ZZR
+# Include 5c24001.tle
+
+# Range: 2025-03-01 2025-04-13
+# ID: 79888  25000ZZQ
+# Include c44q3q1.tle
+
+# Range: 2025-03-01 2025-07-24
+# ID: 79887  25000ZZP
+# Include c44qe61.tle
+
+# Range: 2025-03-02 2025-07-06
+# ID: 79886  25000ZZN
+# Include zts0402.tle
+
+# Range: 2025-04-01 2025-04-26
+# ID: 79885  25000ZZM
+# Include c44rtv1.tle
+
+# Range: 2025-03-15 2025-08-03
+# ID: 79884  25000ZZL
+# Include c44t8p1.tle
+
+# Range: 2025-03-01 2025-09-13
+# ID: 79883  25000ZZK
+# Include zts0406.tle
+
+# Range: 2025-03-17 2025-07-22
+# ID: 79882  25000ZZJ
+# Include a11mxyq.tle
+
+# Range: 2025-04-20 2025-07-11
+# ID: 79881  25000ZZH
+# Include zts0405.tle
+
+# Range: 2025-04-12 2026-01-01
+# ID: 59278  24051C
+# Include 24051c.tle
+
+# Range: 2026-01-01 2026-07-01
+# ID: 59278  24051C
+# Include 24051c26.tle
+
+# Range: 2025-04-20 2025-11-13
+# ID: 79879  25000ZZF
+# Include ztf1012.tle
+
+# Range: 2025-05-01 2025-08-23
+# ID: 79878  25000ZZE
+# Include a11nsbh.tle
+
+# Range: 2025-03-15 2025-09-05
+# ID: 79877  25000ZZD
+# Include zts0377.tle
+
+# Range: 2025-05-10 2025-11-03
+# ID: 79876  25000ZZC
+# Include ztf101a.tle
+
+# Range: 2025-05-01 2025-09-23
+# ID: 79875  25000ZZB
+# Include a11ntfj.tle
+
+# Range: 2025-07-01 2025-11-11
+# ID: 79874  25000ZZA
+# Include a11qfda.tle
+
+# Range: 2025-07-01 2026-01-21
+# ID: 79873  25000ZYZ
+# Include a11qrzd.tle
+
+# Range: 2025-08-01 2025-11-03
+# ID: 79872  25000ZYY
+# Include ztf104t.tle
+
+# Range: 2025-07-01 2025-10-12
+# ID: 79871  25000ZYX
+# Include a11qrqd.tle
+
+# Range: 2025-09-01 2026-01-18
+# ID: 79870  25000ZYW
+# Include a11s4e5.tle
+
+# Range: 2025-08-01 2025-11-17
+# ID: 79869  25000ZYV
+# Include ztf105i.tle
+
+# Range: 2025-09-16 2025-12-19
+# ID: 79868  25000ZYU
+# Include ztf106u.tle
+
+# Range: 2025-09-15 2026-02-03
+# ID: 79867  25000ZYT
+# Include a11ud19.tle
+
+# Range: 2025-10-01 2026-01-22
+# ID: 79866  25000ZYS
+# Include ztf107w.tle
+
+# Range: 2025-09-29 2026-01-23
+# ID: 79865  25000ZYR
+# Include c456421.tle
+
+# Range: 2025-10-01 2026-01-30
+# ID: 79864  25000ZYQ
+# Include ztf107n.tle
+
+# Range: 2025-10-15 2026-01-19
+# ID: 79863  25000ZYP
+# Include ztf107a.tle
+
+# Range: 2025-10-20 2026-02-19
+# ID: 79862  25000ZYN
+# Include c458gp1.tle
+
+# Range: 2025-08-01 2026-01-01
+# ID: 79861  25000ZYM
+# Include cdt9az2.tle
+
+# Range: 2025-11-01 2026-02-03
+# ID: 79860  25000ZYL
+# Include ztf108p.tle
+
+# Range: 2025-11-01 2026-02-19
+# ID: 79859  25000ZYK
+# Include wmt0005.tle
+
+# Range: 2025-11-01 2026-02-22
+# ID: 79858  25000ZYJ
+# Include ztf108y.tle
+
+# Range: 2025-11-15 2026-02-11
+# ID: 79857  25000ZYH
+# Include c45emc1.tle
+
+# Range: 2025-10-01 2026-03-03
+# ID: 79856  25000ZYG
+# Include ztf108w.tle
+
+# Range: 2025-11-01 2026-04-08
+# ID: 79855  25000ZYF
+# Include st25k62.tle
+
+# Range: 2025-11-15 2026-02-13
+# ID: 79854  25000ZYE
+# Include a11wjpd.tle
+
+# Range: 2025-11-05 2026-03-22
+# ID: 79853  25000ZYD
+# Include ztf108h.tle
+
+# Range: 2025-10-15 2026-03-27
+# ID: 79852  25000ZYC
+# Include a11wfsg.tle
+
+# Range: 2025-12-01 2027-01-01
+# ID: 79851  69046Z
+# Include c45gf81.tle
+
+  note : next artsat will be 79850,  25000ZYA
+
+# Range: 2026-06-22 2027-01-01
+# ID: 69123  26109A
+# Include 26109a.tle
 
 # Range: 2022-01-01 2022-08-01
 # ID: 89944  00000ACD
@@ -510,6 +1001,9 @@
 # Range: 2024-01-01 2025-01-01
 # ID: 79960  23999ZZK
 # Include ur29394_24.tle
+# Range: 2025-01-01 2026-01-01
+# ID: 79960  23999ZZK
+# Include ur29394_25.tle
 
 # Range: 2023-08-11 2024-02-27
 # ID: 57601  23118B
@@ -534,6 +1028,9 @@
 # Range: 2024-01-01 2025-01-01
 # ID: 33401  08051A
 # Include 08051a24.tle
+# Range: 2025-01-01 2026-01-01
+# ID: 33401  08051A
+# Include 08051a25.tle
 
 # Range: 2023-07-15 2023-08-04
 # ID: 57320  23098A
@@ -547,7 +1044,7 @@
 # ID: 57804  23137E
 # Include 23137e.tle
 
-# Range: 2023-10-01 2024-12-22
+# Range: 2023-10-01 2024-12-31
 # ID: 57804  23137E
 # Include 23137e24.tle
 
@@ -652,6 +1149,9 @@
 # Range: 2024-01-01 2025-01-01
 # ID: 37755  11037A
 # Include 11037a24.tle
+# Range: 2025-01-01 2026-01-01
+# ID: 37755  11037A
+# Include 11037a25.tle
 
 # Range: 2013-12-10 2015-01-01
 # ID: 39459  13070B
@@ -686,6 +1186,9 @@
 # Range: 2024-01-01 2025-01-01
 # ID: 39459  13070B
 # Include 13070b24.tle
+# Range: 2025-01-01 2026-01-01
+# ID: 39459  13070B
+# Include 13070b25.tle
 
 # Range: 2015-02-15 2016-01-01
 # ID: 40391  15007B
@@ -730,6 +1233,9 @@
 # Range: 2024-01-01 2025-01-01
 # ID: 43435  18038A
 # Include 18038a24.tle
+# Range: 2025-01-01 2026-01-01
+# ID: 43435  18038A
+# Include 18038a25.tle
 
 # Range: 2020-04-09 2020-06-01
 # ID: 43653  18080A
@@ -772,6 +1278,9 @@
 # Range: 2024-01-01 2025-01-01
 # ID: 44432  19040A
 # Include 19040a24.tle
+# Range: 2025-01-01 2026-01-01
+# ID: 44432  19040A
+# Include 19040a25.tle
 
 # Range: 2019-07-15 2019-09-28
 # ID: 44433  19040B
@@ -811,6 +1320,9 @@
 # Range: 2024-01-01 2025-01-01
 # ID: 08748  76023C
 # Include 76023c24.tle
+# Range: 2025-09-01 2026-01-01
+# ID: 08748  76023C
+# Include 76023c25.tle
 
 # Range: 2016-01-01 2017-01-01
 # ID: 13901  83020A
@@ -920,6 +1432,9 @@
 # Range: 2024-01-01 2025-01-01
 # ID: 89996  00000AAD
 # Include xl8d_24.tle
+# Range: 2025-01-01 2026-01-01
+# ID: 89996  00000AAD
+# Include xl8d_25.tle
 
 # Max error 180   (Limit removed)
 
@@ -939,12 +1454,24 @@
 
 # Max error 0.2
 
+# Range: 2025-01-01 2025-10-22
+# ID: 26463  00045A
+# Include 00045a.tle
+
+# Range: 2024-11-05 2025-01-01
+# ID: 26464  00045B
+# Include 00045b.tle
+
 # Range: 2019-05-01 2020-01-01
 # ID: 27540  02048A
 # Include 02048a19.tle
 # Range: 2020-01-01 2021-01-01
 # ID: 27540  02048A
 # Include 02048a20.tle
+
+# Range: 2025-10-01 2026-01-01
+# ID: 27540  02048A
+# Include 02048a25.tle
 
 # Range: 2016-11-01 2018-01-01
 # ID: 30799  07004G
@@ -1043,6 +1570,9 @@
 # Range: 2024-01-01 2025-01-01
 # ID: 39479  13074A
 # Include 13074a24.tle
+# Range: 2025-01-01 2026-01-01
+# ID: 39479  13074A
+# Include 13074a25.tle
 
 # Range: 2016-01-01 2018-01-01
 # ID: 40385  15005B
@@ -1142,6 +1672,9 @@
 # Range: 2024-01-01 2025-01-01
 # ID: 00674  63039A
 # Include 63039a24.tle
+# Range: 2025-01-01 2026-01-01
+# ID: 00674  63039A
+# Include 63039a25.tle
 
 # Range: 2017-07-01 2019-01-01
 # ID: 00692  63039C
@@ -1164,6 +1697,9 @@
 # Range: 2024-01-01 2025-01-01
 # ID: 00692  63039C
 # Include 63039c24.tle
+# Range: 2025-01-01 2026-01-01
+# ID: 00692  63039C
+# Include 63039c25.tle
 
 # Range: 2010-01-01 2013-01-01
 # ID: 00836  64040A
@@ -1192,6 +1728,9 @@
 # Range: 2024-01-01 2025-01-01
 # ID: 00836  64040A
 # Include 64040a24.tle
+# Range: 2025-01-01 2026-01-01
+# ID: 00836  64040A
+# Include 64040a25.tle
 
 # Range: 2016-01-01 2017-01-01
 # ID: 00837  64040B
@@ -1220,6 +1759,9 @@
 # Range: 2024-01-01 2025-01-01
 # ID: 00837  64040B
 # Include 64040b24.tle
+# Range: 2025-01-01 2026-01-01
+# ID: 00837  64040B
+# Include 64040b25.tle
 
 # Range: 2017-07-01 2020-01-01
 # ID: 00879  64054A
@@ -1255,6 +1797,9 @@
 # Range: 2024-01-01 2025-01-01
 # ID: 01458  65058A
 # Include 65058a24.tle
+# Range: 2025-01-01 2026-01-01
+# ID: 01458  65058A
+# Include 65058a25.tle
 
 # Range: 2017-06-01 2020-01-01
 # ID: 01459  65058B
@@ -1274,6 +1819,9 @@
 # Range: 2024-01-01 2025-01-01
 # ID: 01459  65058B
 # Include 65058b24.tle
+# Range: 2025-01-01 2026-01-01
+# ID: 01459  65058B
+# Include 65058b25.tle
 
 # Range: 2013-01-01 2015-01-01
 # ID: 02765  67040A
@@ -1302,6 +1850,9 @@
 # Range: 2024-01-01 2025-01-01
 # ID: 02765  67040A
 # Include 67040a24.tle
+# Range: 2025-01-01 2026-01-01
+# ID: 02765  67040A
+# Include 67040a25.tle
 
 # Range: 2016-08-01 2018-01-01
 # ID: 02770  67040F
@@ -1352,6 +1903,9 @@
 # Range: 2024-01-01 2025-01-01
 # ID: 03954  69046D
 # Include 69046d24.tle
+# Range: 2025-01-01 2026-01-01
+# ID: 03954  69046D
+# Include 69046d25.tle
 
 # Range: 2014-01-01 2014-09-01
 # ID: 03956  69046F
@@ -1384,6 +1938,10 @@
 # ID: 03956  69046F
 # Include 69046f24.tle
 
+# Range: 2025-01-01 2026-01-01
+# ID: 60001  69046G
+# Include 69046g25.tle
+
 # Range: 2013-01-01 2016-09-01
 # ID: 06197  72073A
 # Include 72073a13.tle
@@ -1408,6 +1966,9 @@
 # Range: 2024-01-01 2025-01-01
 # ID: 06197  72073A
 # Include 72073a24.tle
+# Range: 2025-01-01 2026-01-01
+# ID: 06197  72073A
+# Include 72073a25.tle
 
 # Range: 2002-01-01 2010-01-01
 # ID: 06893  73078A
@@ -1439,6 +2000,9 @@
 # Range: 2024-01-01 2025-01-01
 # ID: 06893  73078A
 # Include 73078a24.tle
+# Range: 2025-01-01 2026-01-01
+# ID: 06893  73078A
+# Include 73078a25.tle
 
 # Range: 2018-01-01 2019-01-01
 # ID: 08753  76023H
@@ -1490,6 +2054,9 @@
 # Range: 2024-01-01 2025-01-01
 # ID: 32705  77093E
 # Include 77093e24.tle
+# Range: 2025-01-01 2026-01-01
+# ID: 32705  77093E
+# Include 77093e25.tle
 
 # Range: 2018-01-01 2020-01-01
 # ID: 22049  92044A
@@ -1509,6 +2076,9 @@
 # Range: 2024-01-01 2025-01-01
 # ID: 22049  92044A
 # Include 92044a24.tle
+# Range: 2025-01-01 2026-01-01
+# ID: 22049  92044A
+# Include 92044a25.tle
 
 # Range: 2016-04-01 2017-01-01
 # ID: 25989  99066A
@@ -1547,6 +2117,9 @@
 # Range: 2024-01-01 2025-01-01
 # ID: 89983  00000AAQ
 # Include c1auge1_24.tle
+# Range: 2025-01-01 2026-01-01
+# ID: 89983  00000AAQ
+# Include c1auge1_25.tle
 
 # Range: 2020-06-01 2021-06-01
 # ID: 79932  00000ZZQ
@@ -1592,18 +2165,21 @@
 # Range: 2020-01-01 2021-01-01
 # ID: 03955  69046E
 # Include 69046e20.tle
-# Range: 2021-00-01 2022-01-01
+# Range: 2021-01-01 2022-01-01
 # ID: 03955  69046E
 # Include 69046e21.tle
-# Range: 2022-00-01 2023-01-01
+# Range: 2022-01-01 2023-01-01
 # ID: 03955  69046E
 # Include 69046e22.tle
-# Range: 2023-00-01 2024-01-01
+# Range: 2023-01-01 2024-01-01
 # ID: 03955  69046E
 # Include 69046e23.tle
-# Range: 2024-00-01 2025-01-01
+# Range: 2024-01-01 2025-01-01
 # ID: 03955  69046E
 # Include 69046e24.tle
+# Range: 2025-01-01 2026-01-01
+# ID: 03955  69046E
+# Include 69046e25.tle
 
 # Range: 2016-01-01 2020-01-01
 # ID: 89990  00000AAJ
@@ -1728,7 +2304,10 @@
 # ID: 89972  00000ABB
 # Include ztf0ewd_23.tle
 # Range: 2024-01-01 2025-01-01
-# ID: 89972  00000ABB
+#   Space-Track apparently figured out that this was part of the
+#   1967-040 launch,  but -- like us -- couldn't figure out which
+#   part.  So they added a new 'G' designation and used that.
+# ID: 60000  67040G
 # Include ztf0ewd_24.tle
 
 # Range: 2020-08-01 2021-01-01
@@ -2435,12 +3014,111 @@
 # TLEs expected: 26104
 # Include old_tles/20240513.tle
 
-# Range: 2024-05-30 2024-06-21
+# Range: 2024-05-30 2024-06-27
 # TLEs expected: 26113
 # Include old_tles/20240616.tle
 
-# TLEs expected: 25000
-# Range: 2024-06-25 3000-01-01
+# Range: 2024-06-27 2024-07-24
+# TLEs expected: 26388
+# Include old_tles/20240709.tle
+
+# Range: 2024-07-24 2024-08-24
+# TLEs expected: 26400
+# Include old_tles/20240808.tle
+
+# Range: 2024-08-24 2024-09-23
+# TLEs expected: 26808
+# Include old_tles/20240909.tle
+
+# Range: 2024-09-23 2024-10-20
+# TLEs expected: 27020
+# Include old_tles/20241007.tle
+
+# Range: 2024-10-20 2024-11-17
+# TLEs expected: 27003
+# Include old_tles/20241103.tle
+
+# Range: 2024-11-17 2024-12-19
+# TLEs expected: 26909
+# Include old_tles/20241201.tle
+
+# Range: 2024-12-19 2025-01-20
+# TLEs expected: 27070
+# Include old_tles/20250107.tle
+
+# Range: 2025-01-20 2025-02-17
+# TLEs expected: 27118
+# Include old_tles/20250203.tle
+
+# Range: 2025-02-17 2025-03-17
+# TLEs expected: 27376
+# Include old_tles/20250303.tle
+
+# Range: 2025-03-17 2025-04-14
+# TLEs expected: 27413
+# Include old_tles/20250331.tle
+
+# Range: 2025-04-14 2025-05-11
+# TLEs expected: 27444
+# Include old_tles/20250429.tle
+
+# Range: 2025-05-11 2025-06-04
+# TLEs expected: 27692
+# Include old_tles/20250523.tle
+
+# Range: 2025-06-04 2025-06-27
+# TLEs expected: 27845
+# Include old_tles/20250617.tle
+
+# Range: 2025-06-27 2025-07-23
+# TLEs expected: 28102
+# Include old_tles/20250707.tle
+
+# Range: 2025-07-23 2025-08-20
+# TLEs expected: 28319
+# Include old_tles/20250808.tle
+
+# Range: 2025-08-20 2025-09-18
+# TLEs expected: 28488
+# Include old_tles/20250901.tle
+
+# Range: 2025-09-18 2025-10-16
+# TLEs expected: 28619
+# Include old_tles/20251006.tle
+
+# Range: 2025-10-16 2025-11-11
+# TLEs expected: 28704
+# Include old_tles/20251027.tle
+
+# Range: 2025-11-11 2025-12-08
+# TLEs expected: 29096
+# Include old_tles/20251127.tle
+
+# Range: 2025-12-08 2026-01-02
+# TLEs expected: 29538
+# Include old_tles/20251220.tle
+
+# Range: 2026-01-02 2026-01-27
+# TLEs expected: 29688
+# Include old_tles/20260115.tle
+
+# Range: 2026-01-27 2026-02-23
+# TLEs expected: 29970
+# Include old_tles/20260208.tle
+
+# Range: 2026-02-23 2026-03-23
+# TLEs expected: 30086
+# Include old_tles/20260310.tle
+
+# Range: 2026-03-23 2026-04-18
+# TLEs expected: 30519
+# Include old_tles/20260406.tle
+
+# Range: 2026-04-18 2026-05-17
+# TLEs expected: 31024
+# Include old_tles/20260501.tle
+
+# Range: 2026-05-17 2049-01-01
 # Include all_tle.txt
 
 # We don't actually expect to get TLEs from tle_list.txt itself:
